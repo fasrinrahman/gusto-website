@@ -74,9 +74,9 @@ project/
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gusto-restaurant.git
+git clone https://github.com/fasrinrahman/gusto-restaurant.git
 
-git clone https://github.com/your-username/gusto-restaurant.git
+git clone https://github.com/fasrinrahman/gusto-restaurant.git
 Open the project folder
 Run the project:
 Simply open index.html in your browser
